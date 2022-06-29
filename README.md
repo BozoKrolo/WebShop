@@ -6,3 +6,4 @@
 4. Create Node.js server
 5. Fetch from backend
 6. Reducer hook
+7. Add bootstrap UI framework
