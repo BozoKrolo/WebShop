@@ -8,3 +8,4 @@
 6. Reducer hook
 7. Add bootstrap UI framework
 8. Create rating component
+9. Create Product details screen
