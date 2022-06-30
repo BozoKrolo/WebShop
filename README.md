@@ -9,3 +9,4 @@
 7. Add bootstrap UI framework
 8. Create rating component
 9. Create Product details screen
+10. Create loading and message component
