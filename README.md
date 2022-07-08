@@ -15,3 +15,4 @@
 13. Create Cart screen
 14. Create Sign-in screen
 15. Create database
+16. Create sample products
